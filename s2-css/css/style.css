@@ -22,6 +22,7 @@ nav {
     height: 200px;
     margin: 5px;
     padding: 200px 50px 0px 50px;
+    vertical-align: top;
 }
 
 main{
@@ -50,6 +51,7 @@ article {
     height: 200px;
     margin: 5px;
     padding: 200px 50px 0px 50px;
+    vertical-align: top;
 }
 
 .footer {
